@@ -1,0 +1,2 @@
+# Tondik
+Lekaren do vrecka
