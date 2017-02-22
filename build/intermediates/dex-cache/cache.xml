@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_bbfab05a3ffc967d7eb48df061fb2b9d098bebe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_8d6fa8c2086564467a21e95251313ab4a44c7a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_3137b51a95b20c40648ce276d697fb40c8c6b009\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_8d6fa8c2086564467a21e95251313ab4a44c7a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_4459875e6b4309cc7d8b1ba92e0c7bb40d99fbe9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_b68e49f00765403a0cb2b13b2d8a7022933e3c7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_4459875e6b4309cc7d8b1ba92e0c7bb40d99fbe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_b68e49f00765403a0cb2b13b2d8a7022933e3c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_5da8788a8b501546481da8e90c7d3c3b4ae145db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_5da8788a8b501546481da8e90c7d3c3b4ae145db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028b476c16deff44c9c0f63d36c95c4e4aec6c71">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9ea2ee14c09f3d77e24a5e7f027a12ce57d6db5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_520706fdd06c08b5c5efbc0157b4c2b218fb11b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_3137b51a95b20c40648ce276d697fb40c8c6b009.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_520706fdd06c08b5c5efbc0157b4c2b218fb11b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_bbfab05a3ffc967d7eb48df061fb2b9d098bebe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_50cf316e6f817be06bc6033dc52dc43f699b2608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ae06cbecc622ba07c04c26d4fb84cf4d8dc2316">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\jxl_9efc370b38f4e7fe55d91dbf557087ef063a6485.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_7335006b122cf8d355027a8a20a33cefe9cec245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_50cf316e6f817be06bc6033dc52dc43f699b2608\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_de0dc3cb599a20e75b3557ca4d6232f5a69fecfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_8def6afe2d894fb8ddc7abbff41496966e7b334f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_de0dc3cb599a20e75b3557ca4d6232f5a69fecfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_7335006b122cf8d355027a8a20a33cefe9cec245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d2f6de60704206cdf63c99caf5b8615f1ca4ec6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\libs\jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ae06cbecc622ba07c04c26d4fb84cf4d8dc2316">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_9efc370b38f4e7fe55d91dbf557087ef063a6485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b737b4e391112feb269fc23e3eea1224f289c49a">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ebb913ad9a76068de4885d2dedae0052787b2b7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_d2f6de60704206cdf63c99caf5b8615f1ca4ec6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_8def6afe2d894fb8ddc7abbff41496966e7b334f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_caca5ba701182284c9af01b3c7fd53f50e10c8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Antonin\AndroidStudioProjects\pilp4pharmacies2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_caca5ba701182284c9af01b3c7fd53f50e10c8a2.jar" />
+    </item>
+
+</items>
